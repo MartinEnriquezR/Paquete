@@ -6,5 +6,5 @@ logging.basicConfig(level=logging.DEBUG)
 
 if __name__ == "__main__":
     print(unreleased())
-    logging.debug("Comenzando el debug")
-    logging.warning("Mensaje de warning")
+    #logging.debug("mensaje debug")
+    #logging.warning("Mensaje de warning")
